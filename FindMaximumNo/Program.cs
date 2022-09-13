@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome Find Max No Problem Statement!!!!");
+            Console.WriteLine("Welcome Find Max No Problem Statement!!");
         }
     }
 }
